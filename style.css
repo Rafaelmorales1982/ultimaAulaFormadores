@@ -1,0 +1,49 @@
+/* ============== SEÇÃO TAGS =============*/
+nav {
+    position: relative;
+    top: 32px;
+    left: 682px;
+}
+
+a {
+    font-size: 30px;
+    text-decoration: none;
+}
+
+h1 {
+  color: rgb(6, 101, 101);
+  font-family: "Lilita One";
+  border: 2px dotted #676;
+  text-align: center;
+}
+
+h2 {
+  color: crimson;
+  border: 4px dotted #676;
+  text-align: center;
+}
+
+img {
+  width: 20%;
+}
+
+/*==============SEÇÃO CLASSs================*/
+.top-container {
+  background-color: rgb(26, 241, 212);
+}
+.logo-container {
+  text-align: center;
+  background-color: rgb(18, 192, 211);
+}
+
+.principal-container {
+  background-color: cadetblue;
+  padding-top: 10%;
+}
+
+.img-git {
+    position: relative;
+    top: 27px;
+    left:655px;
+    width: 10%;
+}
